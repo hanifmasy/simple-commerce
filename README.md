@@ -1,6 +1,5 @@
-# Project Name
+# Simple E-commerce API Endpoint Using Golang
 
-Brief description of the project.
 
 ## Prerequisites
 
